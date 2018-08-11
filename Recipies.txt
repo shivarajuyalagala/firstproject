@@ -6,3 +6,6 @@ kheen
 pasta
 egg fry
 egg biryani
+
+beans
+pizza
